@@ -1,11 +1,21 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Example blog post
+subtitle: Subtitle of Blog
+date:   2022-01-31 21:16:43 +0800
+# last-updated: 2022-01-31 21:16:43
+tag: [programming,example,test]
+
+cover-img: /assets/img/path_example_post01.jpg #1:1 (450:450)
+
+thumbnail-img: /assets/img/thumb_example_post01.png #1:2 (1200:600)
+
+#For blog posts, if you want to add a thumbnail that will show up in the feed, use thumbnail-img: /path/to/image. If no thumbnail is provided, then cover-img will be used as the thumbnail. You can use thumbnail-img: "" to disable a thumbnail.
 comments: true
+
+# ======= Other parameters ========
+layout: post
+readtime: true
 ---
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
