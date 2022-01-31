@@ -8,7 +8,7 @@ date:   2022-02-01 00:51:43 +0800
 tags: [GSAT, test]
 
 #cover-img: /assets/img/path_example_post01.jpg #1:1 (450:450)
-thumbnail-img: /assets/img/thumb_example_post01.png #1:2 (1200:600)
+#thumbnail-img: /assets/img/thumb_example_post01.png #1:2 (1200:600)
 
 comments: true
 
