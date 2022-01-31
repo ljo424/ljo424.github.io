@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/profile01.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,18 +41,18 @@ round-avatar: true
 social-network-links:
   email: "ljo424@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
+  facebook: https://www.facebook.com/profile.php?id=100010981865378
+  github: https://github.com/jason810496
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
-  medium: yourname
+#  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: deanat78
+  instagram: https://www.instagram.com/jason2004424/
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
