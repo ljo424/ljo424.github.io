@@ -4,7 +4,7 @@ title: About me
 subtitle: Introduction of myself
 ---
 
-我是**劉哲佑**，就讀於[**武陵高中**]()
+我是**劉哲佑**，就讀於[**武陵高中**](http://www.wlsh.tyc.edu.tw/)
 ### 經歷：
 
 - 武陵高中25屆資訊社**社長**&**教學長**
