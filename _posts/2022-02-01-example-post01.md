@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 哭阿！學測考得跟屎一樣 ＝ ＝
 subtitle: 6 個志願序all in APCS組 ？
 #cover-img: /assets/img/path_example_post01.jpg

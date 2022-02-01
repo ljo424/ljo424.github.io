@@ -17,9 +17,9 @@ navbar-links:
   About Me: "aboutme"
   Achievement: "achievement"
   Categories:
-    - Algorithm: ""
-    - Project: ""
-    - Notes : ""
+    - Algorithm: tags/#algorithm
+    - Project: tags/#project
+    - Notes : tags/#notes
   
 
 # --- Logo --- #
