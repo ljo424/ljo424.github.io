@@ -10,4 +10,4 @@
 [beautiful jekyll]()
 [jekyll]()
 [github & jekyll setup]()
-###### tags: `website` `README`
+###### tags: `Blog` `Website` `README`
