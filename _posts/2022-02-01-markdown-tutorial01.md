@@ -25,3 +25,58 @@ readtime: true
 - another
 - the other
 
+*Italics font*
+
+~~Strikethrough~~
+
+這是^上標^
+
+這是~下標~
+
+==Marked text==
+
+Table example :
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
+
+Code with syntax highlighting:
+
+```cpp
+#define int long long 
+#define INF 1e9
+
+singed main(){
+
+    priority_queue<int> pq;
+    cout<<"112 to 112 ?!";
+    return 0;
+}
+```
+
+- [ ] Todo List
+- [ ] a Blog a day
+- [ ] solving a problem a day
+- [ ] participate a contest a week
+
+
+
+### Notification
+
+{: .box-note}
+**Note:** This is a notification box.
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+### Error
+
+{: .box-error}
+**Error:** This is an error box.
