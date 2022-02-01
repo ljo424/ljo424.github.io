@@ -8,7 +8,7 @@ subtitle: Introduction of myself
 ### 經歷：
 
 - 武陵高中25屆資訊社**社長**&**教學長**
-- 資訊讀書會**講師**
+- [武陵資訊讀書會](https://wulinginfor.tk/)**算法班講師**
 
 ### 專長：
 - 演算法程式競賽
