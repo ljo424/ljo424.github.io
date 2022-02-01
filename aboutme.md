@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Introduction of myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我是**劉哲佑**，就讀於[**武陵高中**]()
+### 經歷：
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 武陵高中25屆資訊社**社長**&**教學長**
+- 資訊讀書會**講師**
 
-What else do you need?
+### 專長：
+- 演算法程式競賽
+- C/C++
 
-### My story
+### 興趣：
+- Coding
+- Drawing
+- Fitness
+- Indie music
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
