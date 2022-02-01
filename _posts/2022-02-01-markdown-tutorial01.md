@@ -5,7 +5,7 @@ date:   2022-02-01 22:52:00 +0800
 
 tag: [markdown,note]
 
-thumbnail-img: "/assets/img/markdown-img01.png" #1:1 (450:450)
+thumbnail-img: "/assets/img/markdown-img02.png" #1:1 (450:450)
 
 cover-img: "/assets/img/markdown-turtorial-bg01.png"
 
@@ -15,6 +15,8 @@ comments: true
 # ======= Other parameters ========
 layout: post
 readtime: true
+
+# test local : bundle exec kyll serve
 ---
 
 # h1 heading
