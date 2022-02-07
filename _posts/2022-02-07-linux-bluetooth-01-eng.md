@@ -1,7 +1,7 @@
 ---
 title: Connect bluetooth device on Linux
 subtitle: connect airpods on Ubuntu OS 
-date:   2022-02-07 15:40:00 +0800
+date:   2022-02-07 19:45:00 +0800
 
 tag: [linux,note,eng]
 
@@ -53,7 +53,7 @@ Overall , connecting airpods in command line is coooool !!! 😎
 ```shell
 sudo apt install bluez 
 ```
-#### using **bluetoothct** to manage bluetooth devices
+#### using **bluetoothctl** to manage bluetooth devices
 
 run `bluetoothctl` in terminal
 ```shell
