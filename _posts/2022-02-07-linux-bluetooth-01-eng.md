@@ -73,11 +73,22 @@ To connect our headset , we need to first **scan** all the devices nearby , **fi
 
 
 * **`exit`**
+It's important to know how to quit (especially in Vim :smiling_imp:)
+
 * **`deivices`**
+List available devices
+
 * **`pair [dev]`**
+Pair with device
+
 * **`paired-deivces`**
+List paired devices
+
 * **`connect [dev]`**
+Connect device
+
 * **`disconnect [dev]`**
+Disconnect device
 
 
 
